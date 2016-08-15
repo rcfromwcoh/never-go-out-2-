@@ -1,0 +1,25 @@
+﻿body {
+    background-color:deepskyblue;
+    font-size:large;
+
+}
+
+ul{
+    list-style-position: inside;
+    list-style-type:none;
+    text-align:center;
+    padding:10px;
+    font-family:Arial;
+}
+
+li::first-letter{
+    font-size:30px;
+}
+p{
+    font-family:Arial;
+}
+
+.copyright{
+    
+    font-family:Arial;
+}

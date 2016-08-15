@@ -1,0 +1,45 @@
+﻿html{background-color:burlywood;}
+
+body {
+    background-color:white;
+    font-size:smaller;
+    border-style:dotted;
+    margin: 10px 300px 10px;
+}
+
+h1{
+    font-style:italic;
+    text-align:center;
+    font-size:xx-large;
+    background-color:white;
+    border-bottom:dotted;
+    font-family: Impact;
+    margin: 0px;
+}
+
+ul{
+    list-style-position: inside;
+    list-style-type:none;
+    text-align:center;
+    font-style:italic;
+    padding:10px;
+    font-family:Arial;
+    background-color:white;
+}
+
+li::first-letter{
+    font-size:20px;
+}
+p{
+    font-family:Arial;
+    background-color:white;
+    margin: 20px;
+}
+
+.copyright{
+    
+    font-family:Arial;
+    text-align:center;
+    font-size:10px;
+    background-color:white;
+}

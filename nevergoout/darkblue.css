@@ -1,0 +1,15 @@
+﻿body {
+    background-color:darkblue;
+    font-family:Arial;
+
+}
+
+ul{
+    list-style-position:inside;
+    text-align:center;
+}
+
+.copyright{
+    font-size:12px;
+    font-style:italic;
+}
